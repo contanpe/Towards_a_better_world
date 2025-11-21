@@ -1,5 +1,5 @@
 # pshs04.github.io
-Website host for papers
+Website host for long-form writing, and papers
 
 # Latest updated papers
 
